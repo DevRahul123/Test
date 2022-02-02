@@ -1,0 +1,8 @@
+{
+ "success": true,
+ "message": "Promo code applied successfully",
+ "data": {
+  "promo_type": "flat",
+  "promo_val": 5,
+ }
+}
